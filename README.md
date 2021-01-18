@@ -12,7 +12,7 @@ Have fun!
 
 ## Requirements
 
-- You _MUST_ use Typescript (https://www.typescriptlang.org/)
+- You _MUST_ use [Typescript](https://www.typescriptlang.org/)
 - You _MUST_ write tests
 - Your code _MUST_ be in English (variable names, comments etc..)
 - You _MAY_ use as many libraries as you like, but we recommend trying to stick to the standard library
